@@ -1,0 +1,26 @@
+.search-bar {
+  position: absolute;
+  top: 15%;
+  left: 5.5%;
+}
+
+.btns {
+  position: absolute;
+  top: 10.5%;
+  left: 31%;
+}
+
+.btns button {
+  height: 2rem;
+  width: 5rem;
+  background-color: rgb(95, 16, 168);
+  border: none;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.coin-cards-container {
+  margin-top: 10rem; /* Adjust the margin based on your layout */
+  margin: 50px; /* Adjust the margin based on your layout */
+  padding: 5px;
+}
